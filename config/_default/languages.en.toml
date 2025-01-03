@@ -1,0 +1,31 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Rogue-One"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "swlogo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Harshit Jaiswal"
+  email = "harshitjaiswal2606@gmail.com"
+  image = "aiden.jpeg"
+  imageQuality = 96
+  headline = "I'm only human, after all"
+  bio = "I'm just a pretty girl" # appears in the author box
+  links = [
+    { email = "mailto:harshitjaiswal2606@gmail.com" },
+    { github = "https://github.com/R0gue-one"},
+    { linkedin = "https://www.linkedin.com/in/harshitjaiswal01/" },
+    { instagram = "https://instagram.com/username" }
+    
+    
+  ]
