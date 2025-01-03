@@ -9,8 +9,8 @@ title = "Rogue-One"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "swlogo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "images/swlogo.png"
+  secondaryLogo = "images/swlogo2.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 

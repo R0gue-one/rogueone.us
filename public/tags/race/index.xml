@@ -18,7 +18,7 @@
       <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
       <guid>http://localhost:1313/posts/firstpost/</guid>
       <description>This is my first post on my site</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firstpost/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firstpost/feature.jpg" />
     </item>
     
   </channel>
