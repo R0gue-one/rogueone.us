@@ -41,3 +41,8 @@
     --tw-prose-th-borders: #ffffff;
     --tw-prose-td-borders: #ffffff; */
 }
+
+/* Increase the default font size */
+html {
+  font-size: 13pt;
+}

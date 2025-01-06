@@ -50,7 +50,7 @@
                         {{ .Site.Params.Author.name | default .Site.Title }}
                     </h1>
                     {{ with .Site.Params.Author.headline }}
-                    <h2 class="mt-0 mb-0 text-xl text-neutral-800 dark:text-neutral-300">
+                    <h2 class="mt-0 mb-0 text-lg text-neutral-800 dark:text-neutral-300">
                         <!-- {{ . | markdownify }}  -->
                           <span id="typed"></span>
                     </h2>
@@ -59,7 +59,7 @@
                         var typed = new Typed('#typed', {
                             strings: ["{{ . | markdownify }}"],
                             typeSpeed: 100,
-                            backSpeed: 100,
+                            backSpeed: 40,
                             startDelay: 0,
                             backDelay: 10000,
                             loop: true,
@@ -87,7 +87,7 @@
                     </div>
                     <!-- this is the orignal place of section -->
                     <br>
-                    <section class="prose dark:prose-invert text-xl" >{{ .Content }}</section>
+                    <section class="prose dark:prose-invert text-lg" >{{ .Content }}</section>
                     <br>
                 </div>
             </div>
