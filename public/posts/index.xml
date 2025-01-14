@@ -9,7 +9,17 @@
     <managingEditor>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</managingEditor>
     <webMaster>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</webMaster>
     <copyright>© 2025 Harshit Jaiswal</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Image Sage</title>
+      <link>http://localhost:1313/posts/imagesage/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/posts/imagesage/</guid>
+      <description>Generates random photo with random qoutes</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagesage/feature.jpg" />
+    </item>
     
     <item>
       <title>My first post</title>

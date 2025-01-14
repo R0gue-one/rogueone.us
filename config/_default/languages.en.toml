@@ -25,7 +25,7 @@ title = "Rogue-One"
     { email = "mailto:harshitjaiswal2606@gmail.com" },
     { github = "https://github.com/R0gue-one"},
     { linkedin = "https://www.linkedin.com/in/harshitjaiswal01/" },
-    { instagram = "https://instagram.com/username" }
+    # { instagram = "https://instagram.com/username" }
     
     
   ]
