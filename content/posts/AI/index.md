@@ -1,9 +1,9 @@
 ---
-title: "AI art might be scarier than we thought"
+title: "AI, Job market and Mass Hysteria"
 date: 2025-01-15
 draft: true
 heroStyle: big
-summary: "Lets take a look at Dead Internet Theory and how AI art puts history at jeopardy"
+summary: ""
 tags: ["AI", "Opinion"]
 ---
 
