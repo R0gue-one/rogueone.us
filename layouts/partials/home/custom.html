@@ -51,23 +51,23 @@
                     </h1>
                     {{ with .Site.Params.Author.headline }}
                     <h2 class="mt-0 mb-0 text-lg text-neutral-800 dark:text-neutral-300">
-                        <!-- {{ . | markdownify }}  -->
+                        {{ . | markdownify }} 
                           <span id="typed"></span>
                     </h2>
-                    <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
-                    <script>
-                        var typed = new Typed('#typed', {
-                            strings: ["{{ . | markdownify }}"],
-                            typeSpeed: 100,
-                            backSpeed: 40,
-                            startDelay: 0,
-                            backDelay: 10000,
-                            loop: true,
-                            showCursor: true,
-                            cursorChar: '|',
-                            autoInsertCss: true
-                        });
-                    </script>
+                        <!-- <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+                        <script>
+                            var typed = new Typed('#typed', {
+                                strings: ["{{ . | markdownify }}"],
+                                typeSpeed: 100,
+                                backSpeed: 40,
+                                startDelay: 0,
+                                backDelay: 10000,
+                                loop: true,
+                                showCursor: true,
+                                cursorChar: '|',
+                                autoInsertCss: true
+                            });
+                        </script> -->
                     {{ end }}
 
                     

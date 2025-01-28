@@ -9,7 +9,47 @@
     <managingEditor>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</managingEditor>
     <webMaster>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</webMaster>
     <copyright>© 2025 Harshit Jaiswal</copyright>
-    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/tags/project/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/project/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Dev</title>
+      <link>http://localhost:1313/tags/web-dev/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/web-dev/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web3</title>
+      <link>http://localhost:1313/tags/web3/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/web3/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>API</title>
@@ -32,16 +72,6 @@
     </item>
     
     <item>
-      <title>Project</title>
-      <link>http://localhost:1313/tags/project/</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
-      <guid>http://localhost:1313/tags/project/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Race</title>
       <link>http://localhost:1313/tags/race/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
@@ -57,6 +87,26 @@
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
       <guid>http://localhost:1313/tags/space/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Block</title>
+      <link>http://localhost:1313/tags/block/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/block/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
       
     </item>
