@@ -4,6 +4,7 @@ date: 2025-01-28
 draft: false
 heroStyle: big
 summary: "Blockchain based carbon market"
+showTableOfContents: true
 tags: ["Project", "Blockchain", "Web Dev", "Web3"]
 ---
 View the demo app [here](https://carbon-credit-sepolia.vercel.app/home)<br>
