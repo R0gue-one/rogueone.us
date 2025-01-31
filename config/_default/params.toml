@@ -44,10 +44,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   homepageImage = "wolf.jpg" # used in: hero, card and background
-  showRecent = true
+  showRecent = false
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "/posts/ /projects/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

@@ -21,5 +21,25 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/carbon-credits/feature.jpg" />
     </item>
     
+    <item>
+      <title>Premier League Prediction</title>
+      <link>http://localhost:1313/projects/epl-prediction/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/epl-prediction/</guid>
+      <description>Premier League match and player performance prediction using ML</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/epl-prediction/feature.png" />
+    </item>
+    
+    <item>
+      <title>JobQuest</title>
+      <link>http://localhost:1313/projects/jobquest/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/jobquest/</guid>
+      <description>Web app for scoring resumes and genrating skill test based on jobs</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/jobquest/feature.png" />
+    </item>
+    
   </channel>
 </rss>

@@ -62,6 +62,16 @@
     </item>
     
     <item>
+      <title>Fun Project</title>
+      <link>http://localhost:1313/tags/fun-project/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/fun-project/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Photography</title>
       <link>http://localhost:1313/tags/photography/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
@@ -87,6 +97,76 @@
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
       <guid>http://localhost:1313/tags/space/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Android Studio</title>
+      <link>http://localhost:1313/tags/android-studio/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/android-studio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>App Development</title>
+      <link>http://localhost:1313/tags/app-development/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/app-development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/tags/ml/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>http://localhost:1313/tags/web-scraping/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/web-scraping/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Game Dev</title>
+      <link>http://localhost:1313/tags/game-dev/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/game-dev/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unreal Engine</title>
+      <link>http://localhost:1313/tags/unreal-engine/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/tags/unreal-engine/</guid>
       <description></description>
       
     </item>

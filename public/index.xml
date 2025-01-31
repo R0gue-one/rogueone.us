@@ -27,7 +27,7 @@
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
       <guid>http://localhost:1313/posts/imagesage/</guid>
-      <description>Generates random photo with random qoutes</description>
+      <description>Useless page that generates random photo with random qoutes</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagesage/feature.jpg" />
     </item>
     
@@ -39,6 +39,66 @@
       <guid>http://localhost:1313/posts/firstpost/</guid>
       <description>This is my first post on my site</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firstpost/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Athleo</title>
+      <link>http://localhost:1313/projects/athleo/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/athleo/</guid>
+      <description>Fitness tracking app for running and jogging</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/athleo/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Premier League Prediction</title>
+      <link>http://localhost:1313/projects/epl-prediction/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/epl-prediction/</guid>
+      <description>Premier League match and player performance prediction using ML</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/epl-prediction/feature.png" />
+    </item>
+    
+    <item>
+      <title>Realtime Behavior Analysis</title>
+      <link>http://localhost:1313/projects/behavior-analysis/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/behavior-analysis/</guid>
+      <description>Realtime analysis of student-teacher behavior in a classroom setting</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/behavior-analysis/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>JobQuest</title>
+      <link>http://localhost:1313/projects/jobquest/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/jobquest/</guid>
+      <description>Web app for scoring resumes and genrating skill test based on jobs</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/jobquest/feature.png" />
+    </item>
+    
+    <item>
+      <title>Asset Manager for Godot</title>
+      <link>http://localhost:1313/projects/asset-manager/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/asset-manager/</guid>
+      <description>A plugin for Godot engine for managing game assets like sprites, animations etc.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/asset-manager/feature.png" />
+    </item>
+    
+    <item>
+      <title>Xeno AI</title>
+      <link>http://localhost:1313/projects/xeno-ai/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <author>harshitjaiswal2606@gmail.com (Harshit Jaiswal)</author>
+      <guid>http://localhost:1313/projects/xeno-ai/</guid>
+      <description>A fun project to showcase use of AI in games</description>
+      
     </item>
     
     <item>

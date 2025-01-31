@@ -3,8 +3,8 @@ title: "Image Sage"
 date: 2025-01-10
 draft: false
 heroStyle: background
-summary: "Generates random photo with random qoutes"
-tags: ["Project", "Photography", "API"]
+summary: "Useless page that generates random photo with random qoutes"
+tags: ["Fun Project", "Photography", "API"]
 ---
 
 # Background 
