@@ -20,6 +20,9 @@ Using blockchain and web3 many of these issues can be resolved to finally use ca
 Carbon trading originated in the 1990s as a market-based solution to combat climate change, starting with the Kyoto Protocol in 1997, which introduced emissions trading among countries. It later evolved into voluntary markets and cap-and-trade systems, allowing companies to trade carbon credits globally.
 ![Alt text](/projects/carbon_credits/International_Conference_Center_Kyoto.jpg "International Conference Center Kyoto")
 
+## Demo
+{{< youtubeLite id="OnMnzzr2J1k" label="Carbon Credits demo" >}}
+
 ## How it works
 1. NGOs will register on the platform and create Carbon Credits based on thier projects which will then be put up for sale.
 2. Companies or traders can buy these can buy these credits from the NGO and resell them further if they wish to.
