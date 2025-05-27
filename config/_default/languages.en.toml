@@ -9,7 +9,7 @@ title = "Rogue-One"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "images/swlogo.png"
+  logo = "images/swlogo3.png"
   secondaryLogo = "images/swlogo2.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -25,6 +25,7 @@ title = "Rogue-One"
     { email = "mailto:harshitjaiswal2606@gmail.com" },
     { github = "https://github.com/R0gue-one"},
     { linkedin = "https://www.linkedin.com/in/harshitjaiswal01/" },
+    { pinterest = "https://in.pinterest.com/harshitjaiswal2606/"},
     # { instagram = "https://instagram.com/username" }
     
     

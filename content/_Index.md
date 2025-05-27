@@ -5,5 +5,3 @@ layout: "simple"
 
 Hello There! Nice of you to stop by I'm a CSE undergrad from IIIT, Naya Raipur. I'm interested in Tech, Video Games and Music. <br>
 Anyways here's my [resume](/resume.pdf).
-
-See my [projects](/projects), I also try to post some [blogs](/posts).
